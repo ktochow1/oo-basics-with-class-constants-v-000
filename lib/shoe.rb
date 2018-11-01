@@ -13,7 +13,7 @@ class Shoe
     end
   end
 
-  you would check to see if "brand" is inside of "BRANDS" - if not, go ahead and add it - if so, ignore it
+  # you would check to see if "brand" is inside of "BRANDS" - if not, go ahead and add it - if so, ignore it
 
   
 
