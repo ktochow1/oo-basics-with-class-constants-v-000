@@ -8,10 +8,7 @@ class Shoe
     @brand = brand
     BRANDS << @brand
   end
-  
-  def brand=(brand)
-    @brand = brand
-  end
+
   
   BRANDS.uniq
   
