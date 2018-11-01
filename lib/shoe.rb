@@ -8,7 +8,8 @@ class Shoe
     @brand = brand
     BRANDS << @brand
       if BRANDS.include?(@brand)
-      end
+      BRANDS.uniq 
+    end
   end
 
   
